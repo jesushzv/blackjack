@@ -98,7 +98,7 @@ const Game = () => {
         );
       }
     } else {
-      return <h1></h1>;
+      return <></>;
     }
   };
 
