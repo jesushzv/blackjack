@@ -44,16 +44,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Authors
 
 Jesus Zamora 
-[@DomPizzie](https://github.com/jesushzv)
+[@jesushzv](https://github.com/jesushzv)
 
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [Create-React-App](https://github.com/facebook/create-react-app)
 
