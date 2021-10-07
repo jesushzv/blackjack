@@ -49,7 +49,7 @@ Jesus Zamora
 
 ## License
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License - see the LICENSE.md file for details
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License 
 
 ## Acknowledgments
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
